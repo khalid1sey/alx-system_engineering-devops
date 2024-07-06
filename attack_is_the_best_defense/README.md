@@ -1,5 +1,10 @@
 # Attack is the best defense
 
+## concepts
+* Network sniffing
+* ARP spoofing
+* Dictionary Attack
+
 ## Tools
 
 * wireshark
