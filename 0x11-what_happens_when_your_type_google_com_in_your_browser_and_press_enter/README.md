@@ -32,7 +32,6 @@ Requirements, your post must cover:
 - Application server
 - Database
 
-Click [here](http://---) to read my article.
 
 ### Task 1
 Add a schema to your blog post illustrating the flow of the request created when you type https://www.google.com in your browser and press Enter.\
@@ -45,5 +44,3 @@ The diagram should show:
 - that the web server answers the request by serving a web page
 - that the application server generates the web page
 - that the application server request data from the database
-
-I hosted the diagram image [here](https://imgbox/...)
