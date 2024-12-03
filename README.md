@@ -59,20 +59,21 @@ To get started, clone this repository to your local machine:
 git clone https://github.com/khalid1sey/alx-system_engineering-devops
 cd repository
 Usage
-
+cd 0x00-shell_basics
+# Run the scripts or read the documentation
+```
 Each directory within this repository contains exercises and information related to the respective topic. You can navigate to any directory to explore the content and run the provided scripts or commands.
 bash
 
-cd 0x00-shell_basics
-# Run the scripts or read the documentation
-
-Contributions
+## Contributions
 
 Contributions are welcome! If you have suggestions for improvements, feel free to create a pull request or open an issue.
 License
 
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
+
+## Acknowledgments
 
     Inspired by ALX resources and tutorials.
     Special thanks to all contributors and mentors who supported the development of this repository.
