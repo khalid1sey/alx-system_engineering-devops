@@ -20,9 +20,9 @@ This repository serves as a comprehensive guide for mastering shell basics, perm
 
 The following topics are included in this repository:
 
-- **[0x00. Shell Basics](0x00-shell_basics)** (180%)
-- **[0x01. Shell Permissions](0x01-shell_permissions)** (200%)
-- **[0x02. Shell I/O Redirections and Filters](0x02-shell_io_redirections_and_filters)** (200%)
+- **[0x00. Shell Basics](0x00-shell_basics)**
+- **[0x01. Shell Permissions](0x01-shell_permissions)**
+- **[0x02. Shell I/O Redirections and Filters](0x02-shell_io_redirections_and_filters)**
 - **[0x03. Shell Init Files, Variables, and Expansions](0x03-shell_init_files_variables_and_expansions)**
 - **[0x04. Loops, Conditions, and Parsing](0x04-loops_conditions_and_parsing)**
 - **[0x05. Processes and Signals](0x05-processes_and_signals)**
